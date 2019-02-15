@@ -1,7 +1,8 @@
 {
   "name": "react-ssr-setup",
-  "version": "2.5.2",
-  "author": "Manuel Bieh <node@manuelbieh.de> (https://github.com/manuelbieh)",
+  "version": "1.0.0",
+  "repository": "git@github.com:RevNelson/reactionui.git",
+  "author": "Michael Nelson <revnelson@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": ">=8.11.3",
